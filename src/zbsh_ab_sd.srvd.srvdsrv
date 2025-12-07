@@ -1,0 +1,4 @@
+@EndUserText.label: 'service'
+define service Zbsh_ab_SD {
+  expose ZBSH_AB_Association as saleorder;
+}
